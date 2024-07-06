@@ -1,15 +1,15 @@
 {
   "users": {
-    "6282228545461@s.whatsapp.net": {
+    "201144480466@s.whatsapp.net": {
       "exp": 0,
       "limit": 0
     },
-    "6282285357346@s.whatsapp.net": {
+    "201225016578@s.whatsapp.net": {
       "exp": null,
       "limit": null,
       "delay": 1709519073082
     },
-    "212717457920@s.whatsapp.net": {
+    "48459084240@s.whatsapp.net": {
       "exp": 1206,
       "limit": 0,
       "delay": 1711118251635
@@ -28,7 +28,7 @@
     }
   },
   "chats": {
-    "6282228545461@s.whatsapp.net": {
+    "201144480436@s.whatsapp.net": {
       "isBanned": false,
       "antiSpam": true,
       "acc": false,
@@ -52,7 +52,7 @@
       "rpgs": false,
       "games": false
     },
-    "6282285357346@s.whatsapp.net": {
+    "201225016578@s.whatsapp.net": {
       "isBanned": false,
       "antiSpam": true,
       "acc": false,
@@ -76,7 +76,7 @@
       "rpgs": false,
       "games": false
     },
-    "212717457920@s.whatsapp.net": {
+    "201096710755@s.whatsapp.net": {
       "isBanned": false,
       "antiSpam": true,
       "acc": false,
@@ -198,7 +198,7 @@
       "loc": false,
       "autorestart": false
     },
-    "212693227969@s.whatsapp.net": {
+    "201144480436@s.whatsapp.net": {
       "self": false,
       "autoread": true,
       "autoBio": false,
